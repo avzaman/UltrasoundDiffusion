@@ -1,0 +1,2 @@
+Average IoU: 0.6900
+Average F1: 0.8041
